@@ -1,2 +1,4 @@
 # linux-odyssey
-Test
+
+version of Linux we're on:
+cat /etc/*release
